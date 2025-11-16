@@ -1,7 +1,7 @@
 url: https://6a.kedi.dev
-status: up
-code: 200
-responseTime: 16401
-lastUpdated: 2025-11-16T18:24:31.365Z
+status: down
+code: 400
+responseTime: 839
+lastUpdated: 2025-11-16T18:49:26.436Z
 startTime: 2025-11-15T19:06:37.589Z
 generator: Upptime <https://github.com/upptime/upptime>
