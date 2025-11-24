@@ -16,6 +16,10 @@ sites:
     url: https://tv.tail42937.ts.net
     type: globalping
     location: Chennai
+  - name: Miniflux
+    url: https://miniflux.kedi.dev
+    type: globalping
+    location: Chennai
   - name: 6A
     url: https://6a.kedi.dev
     type: globalping
