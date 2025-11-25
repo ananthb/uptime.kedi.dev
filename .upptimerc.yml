@@ -20,6 +20,10 @@ sites:
     url: https://miniflux.kedi.dev
     type: globalping
     location: Chennai
+  - name: Wallabag
+    url: https://wallabag.kedi.dev
+    type: globalping
+    location: Chennai
   - name: 6A
     url: https://6a.kedi.dev
     type: globalping
