@@ -1,7 +1,7 @@
 url: https://radicale.kedi.dev
-status: up
-code: 302
-responseTime: 56
-lastUpdated: 2025-11-25T23:06:19.933Z
+status: down
+code: 422
+responseTime: 0
+lastUpdated: 2025-11-26T20:49:35.137Z
 startTime: 2025-11-15T19:06:43.227Z
 generator: Upptime <https://github.com/upptime/upptime>
