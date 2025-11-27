@@ -1,7 +1,7 @@
 url: https://mealie.kedi.dev
-status: up
-code: 200
-responseTime: 130
-lastUpdated: 2025-11-27T07:36:30.539Z
+status: down
+code: 422
+responseTime: 0
+lastUpdated: 2025-11-27T20:00:31.244Z
 startTime: 2025-11-15T19:06:45.239Z
 generator: Upptime <https://github.com/upptime/upptime>
