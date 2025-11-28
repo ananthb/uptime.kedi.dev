@@ -1,7 +1,7 @@
 url: https://miniflux.kedi.dev
-status: down
-code: 422
-responseTime: 0
-lastUpdated: 2025-11-28T07:29:50.749Z
+status: up
+code: 200
+responseTime: 374
+lastUpdated: 2025-11-28T10:07:42.797Z
 startTime: 2025-11-24T18:37:51.956Z
 generator: Upptime <https://github.com/upptime/upptime>
