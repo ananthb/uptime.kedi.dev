@@ -7,43 +7,47 @@ sites:
   - name: Immich
     url: https://immich.kedi.dev
     type: globalping
-    location: Chennai
+    location: India
   - name: Seafile
     url: https://seafile.kedi.dev
     type: globalping
-    location: Chennai
+    location: India
   - name: Jellyfin
+    url: https://tv.kedi.dev
+    type: globalping
+    location: India
+  - name: 'Jellyfin (TS)'
     url: https://tv.tail42937.ts.net
     type: globalping
-    location: Chennai
+    location: India
   - name: Miniflux
     url: https://miniflux.kedi.dev
     type: globalping
-    location: Chennai
+    location: India
   - name: Wallabag
     url: https://wallabag.kedi.dev
     type: globalping
-    location: Chennai
+    location: India
   - name: 6A
     url: https://6a.kedi.dev
     type: globalping
-    location: Chennai
+    location: India
   - name: Actual Budget
     url: https://actual.kedi.dev
     type: globalping
-    location: Chennai
+    location: India
   - name: Vaultwarden
     url: https://vault.kedi.dev
     type: globalping
-    location: Chennai
+    location: India
   - name: Radicale
     url: https://radicale.kedi.dev
     type: globalping
-    location: Chennai
+    location: India
   - name: Mealie
     url: https://mealie.kedi.dev
     type: globalping
-    location: Chennai
+    location: India
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
