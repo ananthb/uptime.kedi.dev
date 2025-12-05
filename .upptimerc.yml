@@ -16,6 +16,10 @@ sites:
     url: https://tv.kedi.dev
     type: globalping
     location: India
+  - name: Jellyseerr
+    url: https://seerr.kedi.dev
+    type: globalping
+    location: India
   - name: 'Jellyfin (TS)'
     url: https://tv.tail42937.ts.net
     type: globalping
