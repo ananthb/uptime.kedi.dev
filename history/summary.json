@@ -318,7 +318,7 @@
     "timeMonth": 716,
     "timeYear": 716,
     "dailyMinutesDown": {
-      "2025-12-10": 772,
+      "2025-12-10": 773,
       "2025-12-09": 972,
       "2025-12-07": 1220,
       "2025-12-06": 705,
@@ -348,7 +348,7 @@
     "slug": "mealie",
     "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "54.04%",
+    "uptimeDay": "36.39%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
