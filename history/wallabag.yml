@@ -1,7 +1,7 @@
 url: https://wallabag.kedi.dev
-status: down
-code: 502
-responseTime: 70
-lastUpdated: 2025-12-30T20:37:38.975Z
+status: up
+code: 302
+responseTime: 506
+lastUpdated: 2025-12-30T20:47:34.806Z
 startTime: 2025-12-10T12:51:09.430Z
 generator: Upptime <https://github.com/upptime/upptime>
