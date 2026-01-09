@@ -1,7 +1,7 @@
 url: https://actual.kedi.dev
-status: up
-code: 200
-responseTime: 250
-lastUpdated: 2026-01-08T23:06:02.818Z
+status: down
+code: 403
+responseTime: 0
+lastUpdated: 2026-01-09T15:03:09.179Z
 startTime: 2025-12-10T12:51:34.699Z
 generator: Upptime <https://github.com/upptime/upptime>
