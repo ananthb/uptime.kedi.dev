@@ -1,7 +1,7 @@
 url: https://seafile.kedi.dev
-status: up
-code: 302
-responseTime: 142
-lastUpdated: 2026-01-17T23:05:21.273Z
+status: down
+code: 502
+responseTime: 72
+lastUpdated: 2026-01-18T17:08:53.597Z
 startTime: 2025-12-10T12:50:36.966Z
 generator: Upptime <https://github.com/upptime/upptime>
