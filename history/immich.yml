@@ -1,7 +1,7 @@
 url: https://immich.kedi.dev
-status: up
-code: 200
-responseTime: 85
-lastUpdated: 2026-01-18T23:05:28.027Z
+status: down
+code: 530
+responseTime: 196
+lastUpdated: 2026-01-19T21:11:37.319Z
 startTime: 2025-12-10T12:50:34.510Z
 generator: Upptime <https://github.com/upptime/upptime>
