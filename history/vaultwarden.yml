@@ -1,7 +1,7 @@
 url: https://vault.kedi.dev
-status: down
-code: 403
-responseTime: 0
-lastUpdated: 2026-03-01T18:50:29.037Z
+status: up
+code: 302
+responseTime: 51
+lastUpdated: 2026-03-01T19:02:46.043Z
 startTime: 2025-12-10T12:51:50.503Z
 generator: Upptime <https://github.com/upptime/upptime>
