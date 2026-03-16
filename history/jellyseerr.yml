@@ -1,7 +1,7 @@
 url: https://seerr.kedi.dev
-status: up
-code: 307
-responseTime: 206
-lastUpdated: 2026-03-16T11:48:15.776Z
+status: down
+code: 502
+responseTime: 79
+lastUpdated: 2026-03-16T14:12:31.956Z
 startTime: 2025-12-10T12:50:44.673Z
 generator: Upptime <https://github.com/upptime/upptime>
